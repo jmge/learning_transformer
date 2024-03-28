@@ -83,9 +83,11 @@ Sphinx focuses on documentation, in particular handwritten documentation, howeve
 .. toctree:: 
    :maxdepth: 3
    :numbered:
+   :caption: 目录
 
    embed
    intro
+   transf
 
 	
 
