@@ -58,7 +58,7 @@ Welcome to learning_transformer's documentation!
 	:linenos:
 	:emphasize-lines: 1
 	
-	$ pip install lumache
+	pip install lumache
 	this is a code block.
 	code1
 	cod2
