@@ -16,6 +16,7 @@ release = 'v0.1'
 
 extensions = [
 #	'sphinx.ext.mathjax',
+    'myst_parser',
     "sphinx.ext.duration",
     "sphinx.ext.doctest",
     "sphinx.ext.autodoc",
@@ -35,9 +36,13 @@ language = 'zh_CN'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
-source_suffix = ['.rst', '.md', '.MD']
+source_suffix = {'.rst': 'restructuredtext', 
+                 '.md': 'markdown', 
+                 '.MD': 'markdown',
+                 }
+                 
 
-source_parsers = {
-    '.md' : 'recommonmark.parser.CommonMarkParser',
-    '.MD' : 'recommonmark.parser.CommonMarkParser',
-}
+#source_parsers = {
+#    '.md' : 'recommonmark.parser.CommonMarkParser',
+#    '.MD' : 'recommonmark.parser.CommonMarkParser',
+#}
