@@ -1,2 +1,5 @@
 sphinx_rtd_theme==1.2.2
 myst_parser==2.0.0
+progressbar2
+sphinxcontrib.mermaid
+
