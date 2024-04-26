@@ -10,38 +10,6 @@ Welcome to learning_transformer's documentation!
 - **Mail:** xranger@qq.com
 - **Github:** https://www.github.com/jmge/leanring_transformer
 
-.. note::
-	**Learning_Transformer** 文档介绍了Transformer的原理，并结合实例和Python代码方便形象的理解和运用。
-
-.. attention::
-	**Learning_Transformer** 文档介绍了Transformer的原理，并结合实例和Python代码方便形象的理解和运用。
-
-.. hint::
-	**Learning_Transformer** 文档介绍了Transformer的原理，并结合实例和Python代码方便形象的理解和运用。
-
-.. warning::
-	**Learning_Transformer** 文档介绍了Transformer的原理，并结合实例和Python代码方便形象的理解和运用。
-
-.. tip::
-	**Learning_Transformer** 文档介绍了Transformer的原理，并结合实例和Python代码方便形象的理解和运用。
-
-.. seealso::
-	**Learning_Transformer** 文档介绍了Transformer的原理，并结合实例和Python代码方便形象的理解和运用。
-
-.. important::
-	**Learning_Transformer** 文档介绍了Transformer的原理，并结合实例和Python代码方便形象的理解和运用。
-
-.. caution::
-	**Learning_Transformer** 文档介绍了Transformer的原理，并结合实例和Python代码方便形象的理解和运用。
-
-.. error::
-	**Learning_Transformer** 文档介绍了Transformer的原理，并结合实例和Python代码方便形象的理解和运用。
-
-.. danger::
-	**Learning_Transformer** 文档介绍了Transformer的原理，并结合实例和Python代码方便形象的理解和运用。
-
-
-
 
 卷积神经网络（Convolutional Neural Networks，CNN）和Transformer是两种在深度学习中广泛应用的架构，分别用于处理视觉和自然语言等不同类型的数据。以下是它们之间的技术比较：
 
@@ -82,19 +50,15 @@ Welcome to learning_transformer's documentation!
 	code1
 	cod2
 
+.. code-block:: console
+   :caption: testcodeblock
+   :linenos:
 
-normal text
+   this is the first line of test code
+   this is the second line of test code
+   this is the third line of test code
+   this is the fourth line of test code
 
-.. sidebar::
-
-	This is a side bar. 
-
-	The goal of this document is to give you a quick taste of what Sphinx is and how you might use it. When you’re done here, you can check out the installation guide followed by the intro to the default markup format used by Sphinx, reStructuredText.
-	
-
-Sphinx is a documentation generator or a tool that translates a set of plain text source files into various output formats, automatically producing cross-references, indices, etc. That is, if you have a directory containing a bunch of reStructuredText or Markdown documents, Sphinx can generate a series of HTML files, a PDF file (via LaTeX), man pages and much more.
-
-Sphinx focuses on documentation, in particular handwritten documentation, however, Sphinx can also be used to generate blogs, homepages and even books. Much of Sphinx’s power comes from the richness of its default plain-text markup format, reStructuredText, along with its significant extensibility capabilities.
 
 
 .. _Contents:
@@ -108,6 +72,7 @@ Sphinx focuses on documentation, in particular handwritten documentation, howeve
    intro
    transf
    test
+   xx
 
 	
 

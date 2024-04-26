@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'learning_transformer'
-copyright = '2024, Xranger'
-author = 'Xranger'
+copyright = '2024, Colin'
+author = 'Colin'
 release = 'v0.1'
 
 # -- General configuration ---------------------------------------------------
@@ -22,6 +22,7 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
+    "sphinxcontrib.mermaid",
 	]
 
 templates_path = ['_templates']
